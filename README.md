@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sandhya1631
-- 👀 I’m interested in software testing
+- 👀 I’m interested in software testing,...
 - 🌱 I’m currently doing my masters in software engineering
 - 💞️ I’m looking to collaborate on software
 - 📫 How to reach me sgottmu@stevens.edu
